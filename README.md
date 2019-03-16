@@ -8,3 +8,5 @@ QA_sample_outputs.ipynb - Jupyter notebook that contain sample outputs at the bo
 executive_summary.pdf - Executive summary of findings
 
 presentation.pptx - PowerPoint presentation of all findings, business insights, and value
+
+okapi.png - Image showing okapi formula (only for reference)
