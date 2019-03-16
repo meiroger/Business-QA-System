@@ -1,6 +1,7 @@
 # IEMS308HW4
 QA system that answers business questions such as: Which companies went bankrupt in month X of year Y?, What affects GDP? What percentage of drop or increase is associated with this property?, Who is the CEO of company X?
 
+Have the 2013 and 2014 folders containing the corpus of BusinessInsider articles in the same directory as QA_system.py.
 QA_system.py - Simply run this program to start the QA system. When it prompts for a question, type in your questions or type 'exit' to stop asking questions.
 
 QA_sample_outputs.ipynb - Jupyter notebook that contain sample outputs at the bottom of the notebook. Sample outputs and explanations for every function are also included.
